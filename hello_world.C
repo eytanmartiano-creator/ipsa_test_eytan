@@ -2,7 +2,7 @@
 #include "tp1.h"
 #include <stdio.h>
 #include "tp1.h"
-\\papaya
+\\papaya maracuja
 void f100 (){
     for (int i = 1; i <=100; i++) {
         printf("%d\n",i);
